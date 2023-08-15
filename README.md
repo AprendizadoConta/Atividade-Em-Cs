@@ -1,2 +1,2 @@
-# Atividades_Em_C
+# Atividades
 Atividades em C#
