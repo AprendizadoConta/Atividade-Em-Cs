@@ -1,0 +1,12 @@
+D:\Programação\Modulo 2\Emerson\Lojinha\bin\Debug\DBClientes.mdf
+D:\Programação\Modulo 2\Emerson\Lojinha\bin\Debug\DBClientes_log.ldf
+D:\Programação\Modulo 2\Emerson\Lojinha\bin\Debug\Lojinha.exe.config
+D:\Programação\Modulo 2\Emerson\Lojinha\bin\Debug\Lojinha.exe
+D:\Programação\Modulo 2\Emerson\Lojinha\bin\Debug\Lojinha.pdb
+D:\Programação\Modulo 2\Emerson\Lojinha\obj\Debug\Lojinha.csproj.AssemblyReference.cache
+D:\Programação\Modulo 2\Emerson\Lojinha\obj\Debug\Lojinha.Form1.resources
+D:\Programação\Modulo 2\Emerson\Lojinha\obj\Debug\Lojinha.Properties.Resources.resources
+D:\Programação\Modulo 2\Emerson\Lojinha\obj\Debug\Lojinha.csproj.GenerateResource.cache
+D:\Programação\Modulo 2\Emerson\Lojinha\obj\Debug\Lojinha.csproj.CoreCompileInputs.cache
+D:\Programação\Modulo 2\Emerson\Lojinha\obj\Debug\Lojinha.exe
+D:\Programação\Modulo 2\Emerson\Lojinha\obj\Debug\Lojinha.pdb
